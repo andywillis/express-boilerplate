@@ -1,6 +1,6 @@
 $(function($, _, util) {
   "use strict";
 
-  console.log('index.js loaded: version 1.0');
+  console.log('index.js loaded.');
 
 }(jQuery, _, util));
